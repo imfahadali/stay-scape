@@ -11,8 +11,8 @@ Before you begin, ensure you have Node.js installed on your system.
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone <your-repo-url.git>
-cd <your-repo-directory>
+git clone git@github.com:imfahadali/stay-scape.git
+cd stay-scape
 ```
 
 ## Backend Configuration
